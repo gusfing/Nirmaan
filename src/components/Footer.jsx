@@ -191,7 +191,7 @@ export default function Footer({ onOpenConsultation, onCursorEnter, onCursorLeav
           <div>
             © 2007–2026 Nirmaan Interior Design Studio. All rights reserved.
             <span style={{ margin: '0 8px', color: 'var(--border-subtle)' }}>|</span>
-            Project Management Consultancy (PMC) & Healthcare Architecture
+            Made by <a href="https://kawaki.co.in" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-cream)', textDecoration: 'underline' }}>Kawaki Studios</a>
           </div>
 
           <div style={{ display: 'flex', alignItems: 'center', gap: '24px' }}>
